@@ -1,0 +1,5 @@
+module.exports = {
+  BOT_NAME: "بطوط",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "",
+  TELEGRAM_TOKEN: process.env.TELEGRAM_TOKEN || ""
+};
